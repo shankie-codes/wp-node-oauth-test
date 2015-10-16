@@ -1,0 +1,24 @@
+{
+  "name": "node-oauth-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.0",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "oauth": "^0.9.14",
+    "superagent": "^1.4.0",
+    "superagent-oauth": "^0.2.2",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "cookie-parser": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
